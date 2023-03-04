@@ -1,0 +1,6 @@
+name: infra-pulumi
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Pulumi IAC
